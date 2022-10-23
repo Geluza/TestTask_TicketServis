@@ -1,0 +1,26 @@
+.calculate {
+  background-color: green;
+}
+
+.tickets {
+  margin-left: 20px;
+}
+.time_choise {
+  margin-left: 10px;
+}
+
+.quantity {
+  margin-top: 10px;
+}
+
+.text {
+  margin-top: 20px;
+}
+
+.return_time_choise {
+  display: none;
+}
+
+.return_ticket_time {
+  display: none;
+}
